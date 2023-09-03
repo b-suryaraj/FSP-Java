@@ -42,10 +42,9 @@ Types of Object Oriented Programming:
         i. Partial Object Oriented:
                 A partial OOP has the support for all the four features of OOPS, but supports any one,two,or three features partially.
                     Eg.- C++
-                    --------------------------------------------------------------------------------------------- 
-                    NOTE: In C++, the encapsulation feature is partially supported, because the main() in C++is written outside the class.
-                    ---------------------------------------------------------------------------------------------
-        
+----------------------------------------- 
+NOTE: In C++, the encapsulation feature is partially supported, because the main() in C++is written outside the class.
+-----------------------------------------        
         ii. Fully Object Oriented Programming:
                 A programming language is called to be Fully OOP language if and only if it supports all the four features of OOPs fully.
                     Eg.- JAVA

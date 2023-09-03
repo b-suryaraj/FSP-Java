@@ -119,5 +119,3 @@ Command Line Arguement:
     Write a program to display use of Command Line Arguement in Java.--cmdLineArgument.java
     Write a program to accept two numbers through command line and display their sum and average.--cmdAddAvg.java
     Write a program to find out the sum of n number of numbers passed through command line. -- sumNumbers.java
-
-

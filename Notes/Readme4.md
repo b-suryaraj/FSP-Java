@@ -171,9 +171,9 @@ It is a  mechanism by which java supports the concept of runtime polymorphism.
 
     WAP to display dynamic method dispatch in java. -- dynamicMethodDispatch.java
 .                                          
-----------------------------
+----------------------------------
 In Java if we want to create a variable which may be acting like a global variable then that variable has to declared as public, static and finite.
-----------------------------
+----------------------------------
 
                                                             Interface
 An interface is a special kind of class which may conatin variables and methods where the variables are by default static and final and the methods are by default public and abstract. 
